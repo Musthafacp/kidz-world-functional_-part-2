@@ -143,5 +143,5 @@ cartButton.onclick = () => {
   // Open WhatsApp
   // Text box will have preset messages
 
-  window.open("https://wa.me/+916282123545?text=" + encodeURIComponent(message));
+  window.open("https://wa.me/+919037972149?text=" + encodeURIComponent(message));
 };
